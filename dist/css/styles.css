@@ -491,6 +491,7 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  text-align: justify;
 }
 
 .display-1 {
@@ -10865,6 +10866,7 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
+  text-align: justify;
 }
 
 #sideNav {
@@ -10944,6 +10946,10 @@ p.lead {
   font-size: 3rem;
 }
 
+.justificado {
+  text-align: justify;
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
@@ -10970,3 +10976,4 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
